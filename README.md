@@ -12,4 +12,4 @@ BSlorJDemo is a solrj test demo.
 
 # References
 
-![Slor](http://blog.csdn.net/boonya/article/details/57420823)
+http://blog.csdn.net/boonya/article/details/57420823
